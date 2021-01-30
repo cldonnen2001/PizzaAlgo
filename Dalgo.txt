@@ -1,2 +1,3 @@
 Decide which type of pizza crust
 Decide on the pizza size
+Decide on the pizza crust
