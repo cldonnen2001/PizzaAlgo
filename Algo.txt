@@ -1,2 +1,6 @@
-Decide which business to order from
-Decide which type pf pizza to order
+Decide which type of pizza crust
+Decide on the pizza size
+Decide on the pizza crust
+Decide on cheese
+Decide on sauce
+Decide on Toppings
