@@ -4,3 +4,5 @@ Decide on the pizza crust
 Decide on cheese
 Decide on sauce
 Decide on Toppings
+Decide if want extras
+Decide on sides
